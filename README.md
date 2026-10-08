@@ -1,12 +1,12 @@
-# 🏖️ Beachside Town – Unity Project
+#  Beachside Town – Unity Project
 
-## 📌 Overview
+##  Overview
 
 Beachside Town is a 3D environment project developed using the Unity Engine. The project focuses on creating an immersive beachside town with a combination of coastal terrain, water, buildings, vegetation, props, lighting, and environmental effects.
 
 The project is designed as a foundation for an interactive exploration experience and can be further extended into a game, simulation, virtual tour, or AR/VR application.
 
-## 🎯 Objectives
+##  Objectives
 
 - Create a detailed 3D beachside town environment.
 - Design a realistic and visually appealing coastline.
@@ -17,7 +17,7 @@ The project is designed as a foundation for an interactive exploration experienc
 - Maintain an organized Unity project structure.
 - Provide a foundation for future interactive features.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Unity Engine**
 - **Unity Hub**
@@ -27,7 +27,7 @@ The project is designed as a foundation for an interactive exploration experienc
 - **3D Environment Assets**
 - **Directional Light Estimation**
 
-## 🌊 Main Features
+##  Main Features
 
 ### 1. Beachside Environment
 A coastal environment containing a beach, ocean, town area, and surrounding landscape.
@@ -53,7 +53,7 @@ Directional lighting, skybox settings, and environmental effects are used to cre
 ### 8. Directional Light Estimation
 Directional Light Estimation is used to estimate the dominant direction and intensity of environmental lighting and adjust the directional light accordingly. This helps virtual objects and the environment appear more naturally integrated with their surroundings, especially in AR-based applications.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 BeachsideTown/
